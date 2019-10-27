@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L176310-A3</string>
+    <string name="usernameIn">Enter username</string>
+    <string name="passIn">Enter Password</string>
+    <string name="remMe">Remember me</string>
+    <string name="signIn">Sign In</string>
+    <string name="noName">Name not available</string>
+    <string name="loggedIn">currently logged in</string>
+
+</resources>
